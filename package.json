@@ -1,0 +1,13 @@
+{
+  "name": "neige",
+  "version": "1.0.0",
+  "description": "Git dependencies for Node projects, made simple",
+  "bin": "./bin/cli.js",
+  "keywords": [
+    "git",
+    "dependencies"
+  ],
+  "author": "jabberbees",
+  "repository": "jabberbees/neige",
+  "license": "ISC"
+}
