@@ -13,7 +13,7 @@ The name neige comes from **N**od**E** G**I**t dependency mana**GE**r. It also m
 
     npx neige [options] <command> [args]
 
-## Odin's principle
+## Neige's principle
 It's very simple:
 - describe your Git dependencies in neige.json
 - use neige cli to initialise, update and manage your dependencies
